@@ -17,3 +17,7 @@ class Solution:
                 j += 1
         print(ans)
         return ans
+
+"""
+use deque everything is smooth 😊⛄
+"""
